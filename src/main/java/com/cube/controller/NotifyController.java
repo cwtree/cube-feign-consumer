@@ -14,6 +14,7 @@ import com.cube.pojo.dto.MailSendDTO;
 import com.cube.pojo.dto.MailTemplate;
 import com.cube.pojo.dto.MailText;
 import com.cube.pojo.dto.SmsSendDTO;
+import com.cube.rpc.NotifyRpc;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
